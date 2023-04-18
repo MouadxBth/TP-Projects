@@ -74,3 +74,30 @@ Les objets java utilisés dans ce projet sont :
 > </p>
 
 </details>
+
+<details>
+  <br/>
+  <summary><b>TP-2</b></summary>
+  <br/>
+  
+L’objectif dans ce travail est de créer un formulaire client en utilisant un objet de type fenêtre
+JFrame qui contient à son rôle un objet de type JPanel géré par un gestionnaire de contenu
+de type « GroupLayout ».
+Les objets java utilisés dans ce projet sont :
+1. JPanel
+2. GroupLayout
+3. JButton
+4. JTextfield
+5. JLabel
+6. BorderLayout
+7. JFrame principale (Avec la méthode setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE))
+ 
+### Demo
+  
+> Resultat d'execution du class <code>me.mouad.second/ClientForm.java</code>
+
+<br/>
+
+![first-2](/demo/second/1.png "First image")
+
+</details>
